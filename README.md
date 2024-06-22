@@ -1,7 +1,9 @@
 # ML-Work
 This repository contains various projects and experiments showcasing my skills and experience in Artificial Intelligence (AI) and Machine Learning (ML). The projects cover a range of topics, including computer vision, natural language processing, deep learning, and data analysis.
+
 **
 Projects**
+
 **
 Digital OCR Model - Python | ML | DL | Keras | Collab**
 Developed an OCR project demonstrating proficiency in both deep learning (DL) and natural language processing (NLP).
